@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSM", "GSM\GSM.csproj", "{EB5769FD-18E6-44FA-A5F0-C8B39122BB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5769FD-18E6-44FA-A5F0-C8B39122BB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5769FD-18E6-44FA-A5F0-C8B39122BB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5769FD-18E6-44FA-A5F0-C8B39122BB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5769FD-18E6-44FA-A5F0-C8B39122BB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
