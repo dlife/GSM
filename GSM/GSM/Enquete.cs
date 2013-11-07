@@ -54,12 +54,10 @@ namespace GSM
                 test = "niet toegestaan";
             }
 
-            uitvoer = "GSM-gebruik is "+ test + Environment.NewLine
+            return "GSM-gebruik is "+ test + Environment.NewLine
                 + "-#ja: " + iJa + Environment.NewLine
                 + "-#nee: " + iNee + Environment.NewLine
                 + "-#onverschillig: " + iOnverschillig;
-
-            return uitvoer;
         }
 
         public bool IsBereikt()
